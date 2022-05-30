@@ -16,6 +16,6 @@ Kotlin
 
 <h3>:loudspeaker: Autores</h3>
 
-| [<img src="https://avatars.githubusercontent.com/u/64383080?v=4" width=115><br><sub>Monalysa Yoshikawa</sub>](https://github.com/LysaKYoshikawa) |  [<img src="https://avatars.githubusercontent.com/u/96270990?v=4" width=115><br><sub>Gabriel Lobão</sub>](https://github.com/Spiline) |  [<img src="https://avatars.githubusercontent.com/u/47149568?v=4" width=115><br><sub>Bruno Luiz de Deus Adão</sub>](https://github.com/brunoblda) | [<img src="https://avatars.githubusercontent.com/u/80287014?v=4" width=115><br><sub>Tarcísio Mesquita</sub>](https://github.com/tarcisiomesquita)| [<img src="https://avatars.githubusercontent.com/u/80261904?v=4" width=115><br><sub>Thiago Vinícius</sub>](https://github.com/ubyss)
+| [<img src="https://avatars.githubusercontent.com/u/64383080?v=4" width=890><br><sub>Monalysa Yoshikawa</sub>](https://github.com/LysaKYoshikawa) |  [<img src="https://avatars.githubusercontent.com/u/96270990?v=4" width=890><br><sub>Gabriel Lobão</sub>](https://github.com/Spiline) |  [<img src="https://avatars.githubusercontent.com/u/47149568?v=4" width=890><br><sub>Bruno Luiz de Deus Adão</sub>](https://github.com/brunoblda) | [<img src="https://avatars.githubusercontent.com/u/80287014?v=4" width=890><br><sub>Tarcísio Mesquita</sub>](https://github.com/tarcisiomesquita)| [<img src="https://avatars.githubusercontent.com/u/80261904?v=4"width=890><br><sub>Thiago Vinícius</sub>](https://github.com/ubyss)
 | :---: | :---: | :---: | :---: | :---: |
 
