@@ -11,7 +11,8 @@ A aplicação em si é focada em um APP que consiste em mudar a cor de seu plano
 O conteúdo consiste em uma aplicação em kotlin e documentação.
 
 <h3>:loudspeaker: Features</h3>
-:pushpin: Tecnologias Ultilizadas
+:pushpin: Tecnologias Ultilizadas:
+
 Kotlin
 
 <h3>:loudspeaker: Autores</h3>
